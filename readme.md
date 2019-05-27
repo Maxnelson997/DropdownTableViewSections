@@ -1,5 +1,5 @@
-# The **[maxcodes.io](https://www.maxcodes.io)** Swift Animations Course.
-Provided for Students of my swift animations Udemy Course - The Animations Course Source Code.
+# The **[maxcodes.io](https://www.maxcodes.io)** UITableView Course.
+Provided for Students of my swift UITableView Udemy Course - Dropdown TableView Sections Source Code.
 
 
 
